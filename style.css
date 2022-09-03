@@ -326,3 +326,26 @@ p{
     text-align: center;
     padding: 30px;
 }
+
+.dark {
+    background-color: #121212;
+}
+.dark p{
+    color: white;
+}
+.dark .sidenav{
+    background-color: #121212;
+    color: white;
+}
+.dark .anuncios{
+    background-color: #121212;
+}
+.ativo{
+    text-decoration: none;
+}
+.dark-mode{
+    bottom: 1rem;
+    right: 1rem;
+    position:fixed;
+
+}
